@@ -1,6 +1,6 @@
 {
   "name": "gh-action-test",
-  "homepage": "https:\/\/jonathan-f-silva.github.io/gh-action-test",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
